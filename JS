@@ -1,1 +1,8 @@
-
+One-Page Website
+│
+├── one_page_website.html
+├── css
+│   └── one_page_website.css
+├── images
+│   ├── image1.jpg
+│   └── image2.jpg
